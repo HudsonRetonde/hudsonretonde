@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Hudson Retonde
 - 🔭 Estou trabalhando como Front-End.
-- 🌱 Atualmente estudando JavaScript.-
+- 🌱 Atualmente estudando JavaScript.
 - 📫 Contate-me no e-mail: hudsonsretonde@gmail.com
 
 <div align="center">
@@ -14,12 +14,4 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
 </div>
-  
-  ##
-  
-  <div>    	
- 
-  <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/hudson-retonde/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- 
-</div>
