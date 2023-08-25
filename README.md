@@ -1,4 +1,4 @@
-## Sejam bem-vindos ao meu repositório!
+## Sejam bem-vindos(as) ao meu repositório!
 
 <div align="center">
   <a href="https://github.com/HudsonRetonde">
